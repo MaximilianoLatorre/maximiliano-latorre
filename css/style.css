@@ -132,7 +132,8 @@ header .categorias a.activo{
 }
 
 .contenedor-img {
-    max-width: 90%;
+    width: 90%;
+    max-width:1000px;
     margin-top: 20px;
 }
 
